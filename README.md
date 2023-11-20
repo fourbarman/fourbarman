@@ -45,23 +45,20 @@
 </div>
 
 ***
-projects methods: Agile, Scrum, Kanban
-continuous integration (CI): Jenkins, Travis CI (Codecov.io, JaCoCo)
-continuous delivery (CD): Docker, Docker Compose
-brokers: Kafka, RabbitMQ
-microservices: Spring Cloud Discovery: Eureka Server, Eureka Client
-Spring Cloud Routing > Gateway, Spring Boot Actuator
-Spring base: Spring Framework, Spring Core, Spring Boot
-web: Spring WEB (Rest), Spring MVC, Lombok
-security: Spring Security
-db layer: Spring Data JPA, JPQL, JPA Named Queries,
-Hibernate, HQL, jdbcTemplate, JDBC, Liquibase
-db: PostgreSQL, H2, HQLDB
-front layer: Thymeleaf, JSTL, js, Bootstrap
-test: Mockito, JUnit 5, AssertJ, JUnit 4, Hamcrest
-log: Log4j, Slf4j
-build: Maven, Gradle
-utils: pgAdmin, Postman, curl
-other: Jsoup, Git, СheckStyle
-OS: Windows, Linux(Ubuntu)
-Java: 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI
+### Technologies
+**continuous integration (CI):** Jenkins, Travis CI (Codecov.io, JaCoCo)  
+**continuous delivery (CD):** Docker, Docker Compose  
+**brokers:** Kafka, RabbitMQ, Spring Boot Actuator  
+**Spring base:** Spring Framework, Spring Core, Spring Boot  
+**web:** Spring WEB (Rest), Spring MVC, Lombok  
+**security:** Spring Security  
+**db layer:** Spring Data JPA, JPQL, JPA Named Queries, Hibernate, HQL, jdbcTemplate, JDBC, Liquibase  
+**db:** PostgreSQL, H2, HQLDB  
+**front layer:** Thymeleaf, JSTL, js, Bootstrap  
+**test:** Mockito, JUnit 5, AssertJ, JUnit 4, Hamcrest  
+**log:** Log4j, Slf4j  
+**build:** Maven, Gradle  
+**utils:** pgAdmin, Postman, curl  
+**other:** Jsoup, Git, СheckStyle  
+**OS:** Windows, Linux(Ubuntu)  
+**Java:** 8-17 SE, EE (part), Java Core, OOP, SOLID, TDD, KISS, DRY, YAGNI  
